@@ -1,0 +1,105 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Michael_Ooko",
+        "email": "michael.ooko@student.moringaschool.com",
+        "password": "P@$$w0rd!"
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password": "hashed_password"
+      }
+    ],
+    "workouts": [
+      {
+        "id": 1,
+        "name": "Full Body Workout",
+        "description": "A comprehensive workout targeting all major muscle groups.",
+        "duration": "60 minutes",
+        "exercises": [1, 2, 3]
+      },
+      {
+        "id": 2,
+        "name": "Upper Body Strength",
+        "description": "Focuses on building strength in the upper body.",
+        "duration": "45 minutes",
+        "exercises": [4, 5, 6]
+      },
+      {
+        "id": 3,
+        "name": "Core Blast",
+        "description": "A high-intensity core workout to strengthen your abs and obliques.",
+        "duration": "30 minutes",
+        "exercises": [7, 8, 9]
+      }
+    ],
+    "exercises": [
+      {
+        "id": 1,
+        "name": "Push-ups",
+        "description": "A classic bodyweight exercise that targets the chest, shoulders, and triceps.",
+        "difficulty": "Beginner",
+        "image_url": "https://img.freepik.com/free-photo/full-shot-man-doing-plank_23-2149036348.jpg?t=st=1718204809~exp=1718208409~hmac=666b80cd83577d366786036e24bedb687cd9e842c3c77fdb12344e195127c526&w=826"
+      },
+      {
+        "id": 2,
+        "name": "Squats",
+        "description": "A compound exercise that targets the quadriceps, hamstrings, and glutes.",
+        "difficulty": "Intermediate",
+        "image_url": "https://img.freepik.com/free-photo/full-shot-woman-doing-squats_23-2148771180.jpg?t=st=1718204868~exp=1718208468~hmac=2f6ac5c842de84429a6ffb06222ad2c38f673689c5179212521db8d46a195a9d&w=740"
+      },
+      {
+        "id": 3,
+        "name": "Pull-ups",
+        "description": "An upper body exercise that targets the back and biceps.",
+        "difficulty": "Advanced",
+        "image_url": "https://img.freepik.com/premium-photo/strong-bodybuilder-man-good-physical-shape-naked-muscular-body-pulls-up-sports-gym-against-dark-background_338491-13553.jpg?w=826"
+      },
+      {
+        "id": 4,
+        "name": "Bench Press",
+        "description": "A classic chest exercise performed with a barbell.",
+        "difficulty": "Intermediate",
+        "image_url": "https://as2.ftcdn.net/v2/jpg/00/95/32/41/1000_F_95324105_nanCVHMiu7r8B0qSur3k1siBWxacfmII.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Bent-over Rows",
+        "description": "A compound exercise targeting the back muscles.",
+        "difficulty": "Intermediate",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/bent-over-barbell-row-royalty-free-image-1683719645.jpg?resize=980:*"
+      },
+      {
+        "id": 6,
+        "name": "Shoulder Press",
+        "description": "An overhead pressing exercise for the shoulders.",
+        "difficulty": "Intermediate",
+        "image_url": "https://boxlifemagazine.com/wp-content/uploads/2023/09/Untitled-design-6-1-2.png"
+      },
+      {
+        "id": 7,
+        "name": "Plank",
+        "description": "A core exercise that engages multiple muscle groups, including the abs and obliques.",
+        "difficulty": "Beginner",
+        "image_url": "https://i.guim.co.uk/img/media/3626229bf81772fe76854d3f7d067527e7441ddc/0_204_3864_2318/master/3864.jpg?width=620&dpr=2&s=none"
+      },
+      {
+        "id": 8,
+        "name": "Russian Twists",
+        "description": "An exercise to target the obliques and improve rotational strength.",
+        "difficulty": "Intermediate",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/rtwist1-jpg-1570636420.jpg?crop=1xw:0.84375xh;center,top"
+      },
+      {
+        "id": 9,
+        "name": "Leg Raises",
+        "description": "An exercise for the lower abs and hip flexors.",
+        "difficulty": "Intermediate",
+        "image_url": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTk3MzIyNDgyODQyMDg0NjI5/legraises.webp"
+      }
+    ]
+  }
+  
