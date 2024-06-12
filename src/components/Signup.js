@@ -1,10 +1,9 @@
-// Signup.js
 import React from 'react';
 
 const Signup = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
-    // Handle signup logic
+    // Handle signup
   };
 
   return (

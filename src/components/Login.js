@@ -1,10 +1,10 @@
-// Login.js
+
 import React from 'react';
 
 const Login = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
-    // Handle login logic
+    // Handle login
   };
 
   return (
